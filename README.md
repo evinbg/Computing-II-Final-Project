@@ -18,3 +18,6 @@ uses Java serialization to save and load data from files.
 * **Polymorphism:** Methods like printMenu() are implemented differently in classes that inherit from an abstract class
 * **Composition:** An Instructor “owns” instances of Course classes
 * **Aggregation:** A Student “uses” instances of Course classes
+
+## Grade Received
+A+ (98/100)
