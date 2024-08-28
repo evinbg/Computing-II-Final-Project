@@ -20,4 +20,4 @@ uses Java serialization to save and load data from files.
 * **Aggregation:** A Student “uses” instances of Course classes
 
 ## Grade Received
-A+ (98%)
+A+
